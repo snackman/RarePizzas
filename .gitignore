@@ -1,5 +1,16 @@
+# Package directories
 node_modules
 
-#Hardhat files
-cache
-artifacts
+# Webpack directories
+.webpack
+
+# Operating system files
+.DS_Store
+
+# IDEs
+.idea
+.vscode
+
+# Logs
+*.log
+npm-debug.log*
